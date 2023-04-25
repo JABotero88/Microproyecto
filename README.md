@@ -1,2 +1,2 @@
-# compunube
+# microproyecto
 UAO - IA
